@@ -1,7 +1,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://github.com/antthonycanuto/project-wireframe/blob/main/media/wireframe.png?raw=true)
+![App Screenshot](https://github.com/antthonycanuto/project-wireframe/blob/main/media/wireframe.png?raw=true)(https://antthonycanuto.github.io/project-wireframe)
 
 
 # Projeto Wireframe
